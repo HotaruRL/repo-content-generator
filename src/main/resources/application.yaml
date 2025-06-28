@@ -22,6 +22,9 @@ github:
     - "**/*.yml"
     - "**/*.graphqls"
     - "**/*.properties"
+    - "**/*.js"
+    - "**/*.css"
+    - "**/*.scss"
   excludePatterns:
     - ".mvn/**"
     - ".idea/**"
