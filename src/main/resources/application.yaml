@@ -25,6 +25,7 @@ github:
     - "**/*.js"
     - "**/*.css"
     - "**/*.scss"
+    -
   excludePatterns:
     - ".mvn/**"
     - ".idea/**"
